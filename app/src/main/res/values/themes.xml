@@ -2,4 +2,6 @@
 <resources>
 
     <style name="Theme.Pagina1" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.Cuadrante" parent="android:Theme.Material.Light.NoActionBar" />
 </resources>

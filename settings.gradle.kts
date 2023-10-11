@@ -15,4 +15,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "Pagina1"
 include(":app")
+include(":app")
  
